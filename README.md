@@ -2,6 +2,8 @@
 
 TrackPlanner is a simple task management and calendar app built with React and Chakra UI. It helps you organize, search, and filter tasks by status or week, all in a clean month-view interface.
 
+**Live Demo:** [https://trackplanner.netlify.app/](https://trackplanner.netlify.app/)
+
 ## Features
 
 - Create, edit, and view tasks.
