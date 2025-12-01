@@ -4,7 +4,7 @@ import { Box, Container } from "@chakra-ui/react";
 import { useCalendarStore } from "@/store/calendarStore";
 
 export default function App() {
-  const { currentDate } = useCalendarStore(); // get current month from store
+  const { currentDate } = useCalendarStore();
 
   return (
     <Box>
